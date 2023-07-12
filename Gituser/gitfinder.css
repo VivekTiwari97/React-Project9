@@ -1,0 +1,38 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+  }
+  
+  .user-profile {
+    margin-top: 20px;
+  }
+  
+  img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 20px;
+  }
+  
